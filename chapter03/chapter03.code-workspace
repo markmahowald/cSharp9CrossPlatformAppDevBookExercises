@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"path": "operators"
+		},
+		{
+			"path": "booleanOperators"
+		},
+		{
+			"path": "bitwiseAndShiftOperators"
+		},
+		{
+			"path": "selectionStatements"
+		},
+		{
+			"path": "patternMatchin"
+		},
+		{
+			"path": "iterationStatements"
+		},
+		{
+			"path": "castingAndConvertin"
+		},
+		{
+			"path": "handlingExceptions"
+		},
+		{
+			"path": "checkingForOverflow"
+		},
+		{
+			"path": "fizzBuzz"
+		}
+	]
+}

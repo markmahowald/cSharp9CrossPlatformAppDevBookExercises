@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "Numbers"
+		},
+		{
+			"path": "Basics"
+		},
+		{
+			"path": "Variables"
+		},
+		{
+			"path": "Arrays"
+		},
+		{
+			"path": "NullHandling"
+		},
+		{
+			"path": "Formatting"
+		},
+		{
+			"path": "GetInfoFromUser"
+		},
+		{
+			"path": "Arguments"
+		},
+		{
+			"path": "chapter02Test"
+		}
+	],
+	"settings": {}
+}
