@@ -8,6 +8,15 @@
 		},
 		{
 			"path": "insturmenting"
+		},
+		{
+			"path": "calculatorLib"
+		},
+		{
+			"path": "calculatorLibUnitTests"
+		},
+		{
+			"path": "exercises"
 		}
 	],
 	"settings": {}
