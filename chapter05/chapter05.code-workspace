@@ -1,10 +1,10 @@
 {
 	"folders": [
 		{
-			"path": "."
+			"path": "PcktLibrary"
 		},
 		{
-			"path": "PcktLibrary"
+			"path": "PeopleApp"
 		}
 	],
 	"settings": {}
