@@ -4,7 +4,7 @@ using static System.Console;
 
 namespace Pckt.Shared
 {
-    public class Person : object
+    public partial class Person : object
     {
         public string Name;
         public DateTime DateOfBirth;
@@ -42,6 +42,33 @@ namespace Pckt.Shared
         public (string Name, int Number) GetFruit()
         {
             return("Apples", 5);
+        }
+
+        public string SayHello()
+        {
+            return $"{this.Name} says 'Hello!'";
+        }
+        public string SayHello(string name)
+        {
+            return $"{this.Name} says 'Hello {name}";
+        }
+
+        public string OptionalPeramater(string command = "RUN!", double number = 0.0, bool active = true)
+        {
+            return string.Format(
+                format: "command is {0}, number is {1}, and active is {2}"
+                , arg0: command
+                , arg1: number
+                , arg2: active
+            );
+        }
+
+        public void PassingParameters(int x, ref int y,  out int z)
+        {
+            z = 99;
+            x++;
+            y++;
+            z++;
         }
     }
 }
