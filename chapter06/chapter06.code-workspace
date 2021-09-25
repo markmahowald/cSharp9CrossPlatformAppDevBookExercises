@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../chapter05/PacktLibrary9"
+		},
+		{
+			"path": "../chapter05/PcktLibrary"
+		},
+		{
+			"path": "../chapter05/PeopleApp"
+		}
+	],
+	"settings": {}
+}
